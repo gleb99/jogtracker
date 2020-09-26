@@ -1,5 +1,5 @@
-import {createContext, useContext} from 'react'
+import { createContext, useContext } from 'react'
 
-export const StoreContext = createContext();
+export const StoreContext = createContext()
 
-export const useMyContext = () => useContext(StoreContext);
+export const useMyContext = () => useContext(StoreContext)
